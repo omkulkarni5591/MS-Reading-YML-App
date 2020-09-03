@@ -1,0 +1,11 @@
+server:
+ port: 7777
+spring:
+  application:
+    name: DEMO-APP 
+    
+demo:
+ welcomeMsg: hello!how are you
+ greetMsg: Good Evening..!!
+ testMsg: hi this test msg 
+   
